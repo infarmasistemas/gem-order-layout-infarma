@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{gem-order-layout-infarma}
-  s.version = "0.0.1"
+  s.version = "1.0.0"
   s.licenses = ['Nonstandard']
   s.date = %q{2019-01-04}
   s.summary = %q{gem-order-layout-infarma infarma}
